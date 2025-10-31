@@ -6,14 +6,14 @@
   <img src="https://komarev.com/ghpvc/?username=AribahHussain&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views" />
 </p>
 
----
+
 
 ### 💫 About Me
 🌟 Passionate about transforming ideas into intelligent, creative, and impactful digital experiences.  
 💡 Skilled in blending **AI, Web Development, and Design** to build scalable and user-centric solutions.  
 🎯 Always exploring new technologies that bring creativity and performance together.
 
----
+
 
 ## 🧠 AI / Machine Learning Languages & Tools
 <p align="center">
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
----
+
 
 ## 💻 Web Development 
 <p align="center">
@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
 
 ## 🎨 Design & Creative Tools
 <p align="center">
@@ -53,7 +52,7 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
 </p>
 
----
+
 
 ## ☁️ DevOps, Tools & IDEs
 <p align="center">
@@ -66,7 +65,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
----
+
 
 ## 🌟 Connect With Me
 <p align="center">
@@ -79,9 +78,12 @@
   <a href="https://sprightly-dolphin-dfcdd7.netlify.app/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
+   <a href="https://www.behance.net/areebahhussain" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats & Activity
 
@@ -101,7 +103,7 @@
   </p>
 </div>
 
----
+
 
 <h3 align="center">💫 “Innovating Intelligently, Designing Creatively, and Building with Purpose.” 💫</h3>
 
