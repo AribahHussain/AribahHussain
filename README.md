@@ -78,9 +78,9 @@
   <a href="https://sprightly-dolphin-dfcdd7.netlify.app/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-   <a href="https://www.behance.net/areebahhussain" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
+  <a href="https://www.behance.net/areebahhussain" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=behance&logoColor=1769FF" />
+</a>
 </p>
 
 
