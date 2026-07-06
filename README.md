@@ -1,7 +1,6 @@
 <!-- ==========================================================
      PREMIUM GITHUB PROFILE README — AREEBA QANDEEL
-     Theme: Black + Electric Blue + Silver
-     Edit any section below — each is clearly commented.
+     Theme: Black + Electric Blue + Silver (Optimized Contrast)
      ========================================================== -->
 
 <!-- ============ PREMIUM HERO BANNER ============ -->
@@ -193,7 +192,7 @@ An LLM-powered chatbot trained using empathetic dialogue datasets to provide sup
 <td width="50%" valign="top">
 
 ### 🏷️ Auto Tagging Support Tickets Using LLM
-A machine learning project that automatically classifies customer support tickets using prompt engineering and language models.
+ A machine learning project that automatically classifies customer support tickets using prompt engineering and language models.
 
 </td>
 </tr>
@@ -245,29 +244,33 @@ AI model for identifying fraudulent transactions.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AribahHussain&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AribahHussain&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="30%" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AribahHussain&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="60%" alt="GitHub Streak"/>
+<!-- GitHub Stats & Top Languages Layered Layout -->
+<img src="https://github-readme-stats.vercel.app/api?username=AribahHussain&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&bg_color=000000&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AribahHussain&layout=compact&hide_border=true&theme=tokyonight&bg_color=000000&title_color=00D9FF&text_color=C9D1D9" width="45%" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AribahHussain&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=C9D1D9&area=true&area_color=0D1B2A" width="97%" alt="Activity Graph"/>
+<!-- GitHub Streak Stats with Forced High Contrast Theme -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AribahHussain&theme=tokyonight&hide_border=true&background=000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="95%" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AribahHussain&theme=onedark&no-frame=true&row=1&margin-w=12&column=7" width="97%" alt="GitHub Trophies"/>
+<!-- Activity Graph Styled for Tech-Luxe Neon Aesthetic -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AribahHussain&hide_border=true&bg_color=000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=0D1B2A" width="95%" alt="Activity Graph"/>
+
+<br/><br/>
+
+<!-- GitHub Profile Trophies - Structured to Align Seamlessly -->
+<img src="https://github-profile-trophy.vercel.app/?username=AribahHussain&theme=darkhub&no-frame=true&row=1&margin-w=15&column=7" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
-<!-- Contribution Snake Animation
-     Requires a GitHub Action in this repo to generate the SVG.
-     Once configured, this image will render the animated contribution snake. -->
+<br/>
+
+<!-- Contribution Snake Animation Component -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AribahHussain/AribahHussain/output/github-contribution-grid-snake.svg" width="97%" alt="Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/AribahHussain/AribahHussain/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake"/>
 
 </div>
 
