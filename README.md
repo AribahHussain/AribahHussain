@@ -1,35 +1,44 @@
 <!-- =========================================================
      PREMIUM GITHUB PROFILE README — AREEBA QANDEEL
      Theme: Black + Electric Blue + Silver
+     Content sourced from: areebaportfolio2026.netlify.app
      Edit any section below — each is clearly commented.
      ========================================================= -->
 
 <!-- ============ 1. PREMIUM HERO BANNER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1B2A,100:00D9FF&height=220&section=header&text=Areeba%20Qandeel&fontSize=52&fontColor=00D9FF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Creative%20Technologist&descSize=18&descAlignY=58&descColor=C9D1D9&animation=fadeIn" width="100%" alt="Areeba Qandeel Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1B2A,100:00D9FF&height=220&section=header&text=Areeba%20Qandeel&fontSize=48&fontColor=00D9FF&fontAlignY=35&desc=Senior%20AI%2FML%20Engineer%20%7C%20High-Performance%20Code&descSize=17&descAlignY=58&descColor=C9D1D9&animation=fadeIn" width="100%" alt="Areeba Qandeel Banner"/>
 
 </div>
 
 <!-- ============ 2. ANIMATED TYPING EFFECT ============ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=850&lines=AI+Engineer+%7C+Machine+Learning+Developer;Full+Stack+Software+Developer;Business+Development+Executive;Inside+Sales+Associate+(ISA);UI%2FUX+Designer+%7C+Creative+Technologist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&lines=Senior+AI%2FML+Engineer;Strategic+Inside+Sales+(ISA)+Professional;Full+Stack+Software+Developer;Business+%26+Revenue+Development;Creative+Tech+Innovator" alt="Typing SVG" />
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-000000?style=for-the-badge&logoColor=00D9FF&labelColor=000000&color=0D1B2A"/>
+  <a href="mailto:aribahhussain08@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL_ME-000000?style=for-the-badge&logoColor=00D9FF&labelColor=000000&color=0D1B2A"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1fNH6B_gTyrl0N2LvrtXeuTpaPofZTDPf/view?usp=sharing">
+    <img src="https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logoColor=00D9FF&labelColor=000000&color=0D1B2A"/>
+  </a>
+  <a href="https://areebaportfolio2026.netlify.app/">
+    <img src="https://img.shields.io/badge/VIEW_PORTFOLIO-000000?style=for-the-badge&logoColor=00D9FF&labelColor=000000&color=0D1B2A"/>
+  </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/AribahHussain">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00D9FF" />
   </a>
-  <a href="https://linkedin.com/in/areeba-qandeel-8b0622293">
+  <a href="https://www.linkedin.com/in/areeba-qandeel-8b0622293">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
   </a>
-  <a href="https://sprightly-dolphin-dfcdd7.netlify.app/">
+  <a href="https://areebaportfolio2026.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" />
   </a>
   <a href="https://www.behance.net/areebahhussain">
@@ -41,61 +50,153 @@
   <img src="https://img.shields.io/badge/‎-0D1B2A?style=flat-square" height="3" width="700"/>
 </p>
 
-<!-- ============ 3. PROFESSIONAL INTRODUCTION ============ -->
-## <img src="https://img.shields.io/badge/‎-00D9FF?style=flat-square&color=00D9FF" height="18" width="6"/>&nbsp; Professional Introduction
+<!-- ============ 3. PROFESSIONAL PROFILE ============ -->
+## <img src="https://img.shields.io/badge/‎-00D9FF?style=flat-square&color=00D9FF" height="18" width="6"/>&nbsp; Professional Profile
 
-I'm **Areeba Qandeel**, a technologist who operates at the intersection of **Artificial Intelligence, Software Engineering, and Business Growth**. I build intelligent applications from the ground up — from model to interface — while also understanding how to communicate value, generate leads, and close deals. This dual capability lets me bridge the gap between **engineering teams and business stakeholders**, making me equally effective building a product and selling it.
+I am a results-oriented **AI/ML Engineer** and **Strategic Inside Sales (ISA) professional**. I specialize in the full-cycle development of data-driven applications, bridging the gap between high-performance machine learning pipelines and **measurable business revenue growth**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/‎-0D1B2A?style=flat-square" height="3" width="700"/>
-</p>
+I focus on solving complex challenges by deploying scalable, maintainable code while leveraging **consultative sales strategies** to align technical innovation with market demands. My background combines **Business Development** expertise with a commitment to delivering **high-ROI technical architectures** and seamless user experiences.
 
-<!-- ============ 4. ABOUT ME ============ -->
-## <img src="https://img.shields.io/badge/‎-00D9FF?style=flat-square&color=00D9FF" height="18" width="6"/>&nbsp; About Me
+Specializing in the **US Real Estate sector**, I serve as a high-impact **Inside Sales Agent (ISA)** focused on **Business and Revenue Development** — from strategic lead qualification and cold outreach to managing high-value appointment settings, integrating data-driven CRM management with a consultative sales approach.
 
-I combine expertise across multiple disciplines to deliver complete, end-to-end solutions:
+**Key Metrics**
 
-| Domain | Focus |
+| | |
 |---|---|
-| **Artificial Intelligence** | Building intelligent systems and applied AI solutions |
-| **Machine Learning** | Model development, training, and evaluation |
-| **Full Stack Development** | End-to-end web application design and delivery |
-| **UI/UX Design** | Crafting intuitive, user-centered interfaces |
-| **Business Development** | Driving growth through strategy and outreach |
-| **Inside Sales** | Managing the client pipeline from lead to close |
-| **Creative Problem Solving** | Approaching technical and business challenges with a design-first mindset |
+| **Engineering Focus** | AI/ML Architecture & Software Engineering |
+| **Commercial Strategy** | Inside Sales (ISA), Business & Revenue Development |
+| **Education** | BS Computer Science |
+| **Methodology** | Agile / MLOps & Consultative Sales Pipelines |
+| **Core Value** | Driving high-impact technical solutions aligned with business growth |
 
 <p align="center">
   <img src="https://img.shields.io/badge/‎-0D1B2A?style=flat-square" height="3" width="700"/>
 </p>
 
-<!-- ============ 5. CURRENT FOCUS ============ -->
-## <img src="https://img.shields.io/badge/‎-00D9FF?style=flat-square&color=00D9FF" height="18" width="6"/>&nbsp; Current Focus
+<!-- ============ 4. EXPERTISE & TECHNICAL SKILLS ============ -->
+## <img src="https://img.shields.io/badge/‎-00D9FF?style=flat-square&color=00D9FF" height="18" width="6"/>&nbsp; Expertise & Technical Skills
 
-<table align="center">
+### Core Language & Framework Proficiency
+
+| Skill | Proficiency |
+|---|---|
+| Python (AI/ML Engineering) | 90% |
+| C++ | 90% |
+| HTML / CSS (Tailwind, Bootstrap) | 85% |
+| JavaScript (Vanilla, ES6+) | 85% |
+| Java | 85% |
+| Networking | 85% |
+| MATLAB Coding | 85% |
+| Strategic Sales & Client Relations (ISA/CSR) | 85% |
+| React.js | 80% |
+| Ubuntu | 80% |
+| API Integration | 80% |
+| SQL | 75% |
+| C# | 75% |
+| PHP | 70% |
+
+### AI & ML Ecosystem
+
+<p>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/R_(Basic)-000000?style=for-the-badge&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/PyTorch_(Exposure)-000000?style=for-the-badge&logo=pytorch&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/BERT-000000?style=for-the-badge&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/spaCy-000000?style=for-the-badge&logo=spacy&logoColor=00D9FF"/>
+</p>
+
+### Web & Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React.js-000000?style=for-the-badge&logo=react&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Material_UI-000000?style=for-the-badge&logo=mui&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00D9FF"/>
+</p>
+
+### Design & UI/UX Tools
+
+<p>
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Adobe_Illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00D9FF"/>
+</p>
+
+### Sales & Client Relations (ISA / CSR)
+
+- **Inside Sales:** Strategic lead qualification, appointment setting, and consultative selling using modern CRM platforms.
+- **Client Relations:** Driving business growth through proactive relationship management, active listening, and effective conflict resolution.
+
+### Soft Skills & Leadership
+
+- Team Management — organizing, motivating, and directing development teams to meet deadlines
+- Public Relations — served as Brand Ambassador and Director of PR
+- Adaptability — rapidly mastering new frameworks across AI, web, and systems engineering
+- Technical Communication — translating complex data science concepts into clear business objectives
+- Problem-Solving, Leadership, Creativity, Critical Thinking, Collaboration, Time Management, Emotional Intelligence
+
+<p align="center">
+  <img src="https://img.shields.io/badge/‎-0D1B2A?style=flat-square" height="3" width="700"/>
+</p>
+
+<!-- ============ 5. FEATURED PORTFOLIO PROJECTS ============ -->
+## <img src="https://img.shields.io/badge/‎-00D9FF?style=flat-square&color=00D9FF" height="18" width="6"/>&nbsp; Featured Portfolio Projects
+
+<table width="100%">
+
 <tr>
 <td width="50%" valign="top">
 
-**Technical**
-- Artificial Intelligence & Machine Learning
-- LLM Applications
-- Computer Vision
-- Full Stack Development
-- Cloud Computing (AWS)
+### High-Accuracy Payment Fraud Classifier
+Developed a production-ready classification model to secure online transactions, achieving 99%+ accuracy in identifying anomalies.
+**Tags:** Machine Learning · FinTech · Python
+**[View Repository →](https://github.com/AribahHussain)**
 
 </td>
 <td width="50%" valign="top">
 
-**Business**
-- Business Development
-- Lead Generation
-- Client Acquisition
-- UI/UX Design
-- Research & Innovation
+### Enterprise Contextual Q&A System (RAG)
+Engineered a sophisticated RAG-based LLM application using LangChain, enabling deep, contextual information retrieval from documents.
+**Tags:** NLP · LLMs · LangChain
+**[View Repository →](https://github.com/AribahHussain)**
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Responsive Data Visualization Dashboard
+Designed and implemented a modern, fully responsive dashboard using Tailwind CSS to visually monitor ML model performance metrics.
+**Tags:** Front-End · React.js · Tailwind CSS
+**[View Repository →](https://github.com/AribahHussain)**
+
+</td>
+<td width="50%" valign="top">
+
+### Deep Learning Spam & Unsolicited Email Filter
+Built an NLP deep learning model that efficiently classifies and filters email, significantly enhancing inbox efficiency.
+**Tags:** Deep Learning · NLP · TensorFlow
+**[View Repository →](https://github.com/AribahHussain)**
+
+</td>
+</tr>
+
 </table>
+
+<p align="center">
+  <a href="https://github.com/AribahHussain">
+    <img src="https://img.shields.io/badge/EXPLORE_MORE_ON_GITHUB-000000?style=for-the-badge&logo=github&logoColor=00D9FF"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/‎-0D1B2A?style=flat-square" height="3" width="700"/>
@@ -104,184 +205,25 @@ I combine expertise across multiple disciplines to deliver complete, end-to-end 
 <!-- ============ 6. PROFESSIONAL EXPERIENCE ============ -->
 ## <img src="https://img.shields.io/badge/‎-00D9FF?style=flat-square&color=00D9FF" height="18" width="6"/>&nbsp; Professional Experience
 
-### <img src="https://img.shields.io/badge/‎-000000?style=flat-square" height="14" width="14"/> Business Development Executive
+| Role | Organization | Duration |
+|---|---|---|
+| Chief Strategic Officer & Business Development Executive | DevHatch Labs | 06/2026 — Present |
+| Inside Sales Agent (ISA) | Tech Pirates Global Pvt. Ltd. | 02/2026 — 05/2026 |
+| Project Manager / Jr. AI Engineer | Soplex Technologies | 08/2025 — 12/2025 |
+| Full-Stack Web Developer (.NET / Front-End) | Soft Tech Media Private Limited | 07/2024 — 09/2025 |
+| PR Director & Front-End Developer | Developer.X | 08/2025 — 09/2025 |
+| AI/ML Engineer Intern / Graphic Designing Intern | Developers Hub Corporation | 2025 |
+| Machine Learning Engineer Intern | Elevvo Pathways | 2025 |
 
-<table>
-<tr><td>
-
-- Lead Generation
-- B2B Outreach
-- Email Marketing
-- CRM Management
-- Market Research
-- Business Strategy
-- Client Acquisition
-- Proposal Writing
-- Relationship Management
-
-</td></tr>
-</table>
-
-### <img src="https://img.shields.io/badge/‎-000000?style=flat-square" height="14" width="14"/> Inside Sales Associate (ISA)
-
-<table>
-<tr><td>
-
-- Customer Communication
-- Lead Qualification
-- Sales Support
-- Appointment Scheduling
-- CRM
-- Customer Success
-- Client Follow-up
-- Cross-functional Collaboration
-
-</td></tr>
-</table>
+**Voluntary & Design Roles**
+- Graphic Designer — Hult Prize
+- Graphic Designer — Zindigi Prize (JS Bank)
 
 <p align="center">
   <img src="https://img.shields.io/badge/‎-0D1B2A?style=flat-square" height="3" width="700"/>
 </p>
 
-<!-- ============ 7. TECHNICAL SKILLS ============ -->
-## <img src="https://img.shields.io/badge/‎-00D9FF?style=flat-square&color=00D9FF" height="18" width="6"/>&nbsp; Technical Skills
-
-**Programming Languages**
-<p>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00D9FF"/>
-</p>
-
-**Artificial Intelligence & Machine Learning**
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=00D9FF"/>
-</p>
-
-**Frontend Development**
-<p>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00D9FF"/>
-</p>
-
-**Backend Development**
-<p>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00D9FF"/>
-</p>
-
-**Databases**
-<p>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00D9FF"/>
-</p>
-
-**Cloud & DevOps**
-<p>
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00D9FF"/>
-</p>
-
-**Design Tools**
-<p>
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Adobe_XD-000000?style=for-the-badge&logo=adobexd&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Adobe_Illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Adobe_Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00D9FF"/>
-</p>
-
-**Business Development Skills**
-<p>
-<img src="https://img.shields.io/badge/Lead_Generation-000000?style=for-the-badge&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/B2B_Outreach-000000?style=for-the-badge&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/CRM_Management-000000?style=for-the-badge&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Market_Research-000000?style=for-the-badge&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Client_Acquisition-000000?style=for-the-badge&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Proposal_Writing-000000?style=for-the-badge&logoColor=00D9FF"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/‎-0D1B2A?style=flat-square" height="3" width="700"/>
-</p>
-
-<!-- ============ 8. FEATURED PROJECTS ============ -->
-## <img src="https://img.shields.io/badge/‎-00D9FF?style=flat-square&color=00D9FF" height="18" width="6"/>&nbsp; Featured Projects
-
-<!-- Edit the "Tech Stack" line for each project with the exact technologies you used -->
-
-<table width="100%">
-
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ Smart Surveillance System
-An intelligent surveillance solution designed for automated visual monitoring and detection.
-**Tech Stack:** *(add technologies used)*
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Learning Management System
-A platform for managing courses, content, and learners in one place.
-**Tech Stack:** *(add technologies used)*
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Mental Health Chatbot
-A conversational AI assistant built to provide supportive mental health interactions.
-**Tech Stack:** *(add technologies used)*
-
-</td>
-<td width="50%" valign="top">
-
-### 🏷️ Auto Tagging Support Tickets Using LLM
-An LLM-powered system that automatically classifies and tags incoming support tickets.
-**Tech Stack:** *(add technologies used)*
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 Interactive Periodic Table Explorer
-An interactive web application for exploring elements of the periodic table.
-**Tech Stack:** *(add technologies used)*
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 Portfolio Website
-A personal portfolio website showcasing projects, skills, and experience.
-**Tech Stack:** *(add technologies used)*
-
-</td>
-</tr>
-
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/‎-0D1B2A?style=flat-square" height="3" width="700"/>
-</p>
-
-<!-- ============ 9. GITHUB ANALYTICS ============ -->
+<!-- ============ 7. GITHUB ANALYTICS ============ -->
 ## <img src="https://img.shields.io/badge/‎-00D9FF?style=flat-square&color=00D9FF" height="18" width="6"/>&nbsp; GitHub Analytics
 
 <div align="center">
@@ -303,30 +245,26 @@ A personal portfolio website showcasing projects, skills, and experience.
 
 </div>
 
-<!-- Contribution Snake Animation
-     Requires a GitHub Action in this repo to generate the SVG.
-     Once configured, this image will render the animated contribution snake. -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/AribahHussain/AribahHussain/output/github-contribution-grid-snake.svg" width="97%" alt="Contribution Snake"/>
-
-</div>
-
 <p align="center">
   <img src="https://img.shields.io/badge/‎-0D1B2A?style=flat-square" height="3" width="700"/>
 </p>
 
-<!-- ============ 10. CONNECT WITH ME ============ -->
-## <img src="https://img.shields.io/badge/‎-00D9FF?style=flat-square&color=00D9FF" height="18" width="6"/>&nbsp; Connect With Me
+<!-- ============ 8. CONNECT WITH ME ============ -->
+## <img src="https://img.shields.io/badge/‎-00D9FF?style=flat-square&color=00D9FF" height="18" width="6"/>&nbsp; Ready to Collaborate?
+
+Let's discuss how my blend of AI/ML expertise and software engineering skills can deliver value to your team or project.
 
 <p align="center">
+  <a href="mailto:aribahhussain08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
+  </a>
   <a href="https://github.com/AribahHussain">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00D9FF" />
   </a>
-  <a href="https://linkedin.com/in/areeba-qandeel-8b0622293">
+  <a href="https://www.linkedin.com/in/areeba-qandeel-8b0622293">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
   </a>
-  <a href="https://sprightly-dolphin-dfcdd7.netlify.app/">
+  <a href="https://areebaportfolio2026.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00D9FF" />
   </a>
   <a href="https://www.behance.net/areebahhussain">
@@ -338,12 +276,12 @@ A personal portfolio website showcasing projects, skills, and experience.
   <img src="https://img.shields.io/badge/‎-0D1B2A?style=flat-square" height="3" width="700"/>
 </p>
 
-<!-- ============ 11. PROFESSIONAL QUOTE ============ -->
+<!-- ============ 9. PROFESSIONAL QUOTE ============ -->
 <div align="center">
 
-### *"Where Artificial Intelligence Meets Business Impact."*
+### *"The future belongs to those who believe in the beauty of their dreams."*
 
 </div>
 
-<!-- ============ 12. FOOTER ============ -->
+<!-- ============ 10. FOOTER ============ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0D1B2A,100:000000&height=120&section=footer" width="100%"/>
