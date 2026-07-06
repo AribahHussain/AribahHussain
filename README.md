@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1B2A,100:00D9FF&height=210&section=header&text=Areeba%20Qandeel&fontSize=46&fontColor=00D9FF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Analyst%20%7C%20Business%20Developer%20%7C%20ISA&descSize=16&descAlignY=58&descColor=C9D1D9&animation=fadeIn" width="100%" alt="Areeba Qandeel Banner"/>
 
 <!-- ============ ANIMATED TYPING SVG ============ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&lines=Computer+Science+Student+%7C+AI+Engineer;Data+Analyst+%7C+Full+Stack+Developer;Business+Developer+%7C+Inside+Sales+Agent+(ISA);UI%2FUX+%26+Graphic+Designer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=900&lines=Computer+Science+Graduate+%7C+AI+Engineer;Data+Analyst+%7C+Full+Stack+Developer;Business+Developer+%7C+Inside+Sales+Agent+(ISA);UI%2FUX+%26+Graphic+Designer" alt="Typing SVG" />
 
 </div>
 
