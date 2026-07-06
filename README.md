@@ -1,21 +1,31 @@
-![logo](https://github.com/AribahHussain/AribahHussain/blob/main/Banner.png)
-<h1 align="center">✨ Hi, I'm Areeba Qandeel ✨</h1>
-<h3 align="center">🚀 Creative Tech Innovator | AI/ML Engineer | Web Developer | Designer</h3>
+<div align="center">
 
-<p align="center">
+<img src="https://github.com/AribahHussain/AribahHussain/blob/main/Banner.png" alt="banner" width="100%">
+
+<!-- Typing animation intro -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Areeba+Qandeel;Creative+Tech+Innovator+%F0%9F%9A%80;AI%2FML+Engineer;Web+Developer+%26+Designer" alt="Typing SVG" />
+
+<p>
   <img src="https://komarev.com/ghpvc/?username=AribahHussain&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/AribahHussain?label=Followers&style=for-the-badge&color=ff69b4" alt="followers" />
 </p>
 
+</div>
 
+---
 
 ### 💫 About Me
-🌟 Passionate about transforming ideas into intelligent, creative, and impactful digital experiences.  
-💡 Skilled in blending **AI, Web Development, and Design** to build scalable and user-centric solutions.  
-🎯 Always exploring new technologies that bring creativity and performance together.
 
+- 🌟 Passionate about transforming ideas into intelligent, creative, and impactful digital experiences.
+- 💡 Skilled in blending **AI, Web Development, and Design** to build scalable, user-centric solutions.
+- 🎯 Always exploring new technologies where creativity meets performance.
+- 🌱 Currently deepening my skills in **Generative AI** and **Full-Stack Development**.
+- 📫 Reach me at: *(add your email here)*
 
+---
 
-## 🧠 AI / Machine Learning Languages & Tools
+### 🧠 AI / Machine Learning
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -27,9 +37,8 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
+### 💻 Web Development
 
-
-## 💻 Web Development 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -42,8 +51,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+### 🎨 Design & Creative Tools
 
-## 🎨 Design & Creative Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
@@ -52,9 +61,8 @@
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
 </p>
 
+### ☁️ DevOps, Tools & IDEs
 
-
-## ☁️ DevOps, Tools & IDEs
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -65,9 +73,44 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
+---
 
+### 🚀 Featured Projects
 
-## 🌟 Connect With Me
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AribahHussain&repo=REPO_NAME_1&theme=radical" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AribahHussain&repo=REPO_NAME_2&theme=radical" />
+  </a>
+</p>
+
+> Replace `REPO_NAME_1` / `REPO_NAME_2` with your actual repository names to pin your best work here.
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AribahHussain&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" width="48%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AribahHussain&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AribahHussain&theme=redical&hide_border=true" width="98%" alt="Activity Graph"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AribahHussain&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages"/>
+
+</div>
+
+---
+
+### 🌟 Connect With Me
+
 <p align="center">
   <a href="https://github.com/AribahHussain" target="blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
@@ -77,40 +120,21 @@
   </a>
   <a href="https://sprightly-dolphin-dfcdd7.netlify.app/" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=About.me&logoColor=white" />
-<a href="https://www.behance.net/areebahhussain" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=behance&logoColor=1769FF" />
-</a>
+  </a>
+  <a href="https://www.behance.net/areebahhussain" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
 </p>
 
+---
 
+<div align="center">
 
-## 📊 GitHub Stats & Activity
+### 💫 “Innovating Intelligently, Designing Creatively, and Building with Purpose.” 💫
 
-<h2 align="center">🌟 GitHub Highlights</h2>
+<img src="https://i.pinimg.com/236x/90/e8/ff/90e8ff78f7bef8490e0ab9cb5b83ee0f.jpg" width="180" alt="thank you gif">
 
-<div align="center" style="
-  border: 3px solid #ff44cc;
-  border-radius: 15px;
-  padding: 20px;
-  width: 90%;
-  margin: auto;
-  box-shadow: 0 0 25px rgba(255, 68, 204, 0.5);
-  background: rgba(10,10,20,0.4);
-">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AribahHussain&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-  </p>
+**⭐ Thanks for visiting my profile! Have a great day ahead. ⭐**
+*Keep exploring • Keep creating • Keep evolving 🚀*
+
 </div>
-
-
-
-<h3 align="center">💫 “Innovating Intelligently, Designing Creatively, and Building with Purpose.” 💫</h3>
-
-<p align="center">
-  <img src="https://i.pinimg.com/236x/90/e8/ff/90e8ff78f7bef8490e0ab9cb5b83ee0f.jpg" width="200" alt="thank you gif">
-</p>
-
-<p align="center">
-  <b>⭐ Thanks for visiting my profile! Have a great day ahead. ⭐</b><br>
-  <i>Keep exploring • Keep creating • Keep evolving 🚀</i>
-</p>
