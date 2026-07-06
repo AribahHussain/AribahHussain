@@ -15,6 +15,11 @@
 </div>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AribahHussain&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/AribahHussain?label=Followers&style=for-the-badge&color=00D9FF&labelColor=000000" alt="followers" />
+</p>
+
+<p align="center">
   <a href="mailto:aribahhussain08@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
   </a>
@@ -91,22 +96,6 @@ Problem Solving · Analytical Thinking · Leadership · Team Collaboration · Co
 </td>
 </tr>
 </table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/‎-0D1B2A?style=flat-square" height="3" width="700"/>
-</p>
-
-<!-- ============ PROFESSIONAL EXPERIENCE ============ -->
-## <img src="https://img.shields.io/badge/‎-00D9FF?style=flat-square&color=00D9FF" height="18" width="6"/>&nbsp; Professional Experience
-
-### Business Development Executive
-Worked on business growth strategies, B2B lead generation, client acquisition, email marketing campaigns, CRM management, market research, proposal writing, business communication, relationship management, and identifying new business opportunities — building long-term relationships with clients while helping organizations achieve growth.
-
-### Inside Sales Associate (ISA)
-Experience communicating with clients, qualifying leads, managing inbound and outbound communication, scheduling meetings, following up with prospects, maintaining CRM records, supporting sales teams, improving customer engagement, and ensuring a smooth customer journey.
-
-### Graphic Design
-Create branding materials, social media graphics, UI designs, marketing assets, presentations, and digital content using Adobe Creative Suite and Figma.
 
 <p align="center">
   <img src="https://img.shields.io/badge/‎-0D1B2A?style=flat-square" height="3" width="700"/>
