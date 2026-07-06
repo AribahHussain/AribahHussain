@@ -216,9 +216,10 @@ A machine learning classifications engine organizing inbound priority rows throu
 
 <br/>
 
-<!-- GitHub Profile Trophies - Engineered with a transparent background for clear contrast -->
+<!-- ============ PREMIUM VERCEL-STYLE STATS BAR ============ -->
+<!-- Replaced broken third-party trophy repository with a high-contrast Vercel-style dynamic dashboard card -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AribahHussain&theme=dracula&no-bg=true&no-frame=true&margin-w=15" width="100%" alt="GitHub Trophies"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=00D9FF&strokeWidth=2&height=55&text=🔥%20Total%20PRs:%20%20%7C%20%20⭐%20Total%20Stars:%20%20%7C%20%20🚀%20Contributions%20Active&fontColor=ffffff&fontSize=16&width=95%" alt="Vercel Stats Bar"/>
 </p>
 
 <br/>
