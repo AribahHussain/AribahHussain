@@ -198,28 +198,34 @@ A machine learning classifications engine organizing inbound priority rows throu
 
 <div align="center">
 
-<!-- Fixed analytics: Forced High Contrast Dark Themes with Explicit Accent parameters to show stars and metrics clearly -->
+<!-- Core Analytics Cards -->
 <img src="https://github-readme-stats.vercel.app/api?username=AribahHussain&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=calm&bg_color=000000&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AribahHussain&layout=compact&hide_border=true&theme=calm&bg_color=000000&title_color=00D9FF&text_color=C9D1D9" width="45%" alt="Top Languages"/>
 
 <br/><br/>
 
+<!-- Streak Tracker -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AribahHussain&theme=tokyonight&hide_border=true&background=000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="95%" alt="GitHub Streak"/>
 
 <br/><br/>
 
+<!-- Activity Commit Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AribahHussain&hide_border=true&bg_color=000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=0D1B2A" width="95%" alt="Activity Graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AribahHussain&theme=darkhub&no-frame=true&row=1&margin-w=15&column=7" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
 <br/>
 
+<!-- GitHub Profile Trophies - Engineered with a transparent background for clear contrast -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AribahHussain&theme=dracula&no-bg=true&no-frame=true&margin-w=15" width="100%" alt="GitHub Trophies"/>
+</p>
+
+<br/>
+
+<!-- Contribution Snake Grid Animation Component -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/AribahHussain/AribahHussain/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/AribahHussain/AribahHussain/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake"/>
 </div>
 
 <p align="center">
