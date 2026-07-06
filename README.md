@@ -196,37 +196,18 @@ A machine learning classifications engine organizing inbound priority rows throu
 <!-- ============ GITHUB STATISTICS ============ -->
 ## <img src="https://img.shields.io/badge/‎-00D9FF?style=flat-square&color=00D9FF" height="18" width="6"/>&nbsp; GitHub Analytics
 
-<div align="center">
-
-<!-- Core Analytics Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=AribahHussain&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=calm&bg_color=000000&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AribahHussain&layout=compact&hide_border=true&theme=calm&bg_color=000000&title_color=00D9FF&text_color=C9D1D9" width="45%" alt="Top Languages"/>
-
-<br/><br/>
-
-<!-- Streak Tracker -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AribahHussain&theme=tokyonight&hide_border=true&background=000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="95%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- Activity Commit Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AribahHussain&hide_border=true&bg_color=000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=0D1B2A" width="95%" alt="Activity Graph"/>
-
-</div>
-
-<br/>
-
-<!-- ============ PREMIUM VERCEL-STYLE STATS BAR ============ -->
-<!-- Replaced broken third-party trophy repository with a high-contrast Vercel-style dynamic dashboard card -->
+<!-- Replaced failing image links with lightning-fast, high-contrast structural metric badges -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&stroke=00D9FF&strokeWidth=2&height=55&text=🔥%20Total%20PRs:%20%20%7C%20%20⭐%20Total%20Stars:%20%20%7C%20%20🚀%20Contributions%20Active&fontColor=ffffff&fontSize=16&width=95%" alt="Vercel Stats Bar"/>
+  <img src="https://img.shields.io/badge/Core%20Stack-Python%20%7C%20SQL%20%7C%20JS-00D9FF?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Repo%20Activity-High%20Growth-00D9FF?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Contributions-Verified%20Active-00D9FF?style=for-the-badge&labelColor=000000"/>
 </p>
 
 <br/>
 
-<!-- Contribution Snake Grid Animation Component -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AribahHussain/AribahHussain/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake"/>
+  <!-- Dynamic Activity Line Graph: Completely customized in clear electric blue, loading instantly -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AribahHussain&hide_border=true&bg_color=000000&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=0D1B2A" width="95%" alt="Activity Graph"/>
 </div>
 
 <p align="center">
